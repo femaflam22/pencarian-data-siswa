@@ -1,0 +1,5 @@
+abu muda : #e9eef2
+abu tua : #dadcde
+hitam : #4f5659
+merah : #eb423f
+merah tua : #d13330
